@@ -1,0 +1,2 @@
+# trendBlogApp
+simple react app
